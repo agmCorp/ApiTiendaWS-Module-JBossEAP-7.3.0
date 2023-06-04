@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<module xmlns="urn:jboss:module:1.1" name="uy.com.bse.apitiendaweb">  
+    <resources>  
+			<resource-root path="."/>
+			<resource-root path="log4j-api-2.20.0.jar"/>
+			<resource-root path="log4j-core-2.20.0.jar"/>
+			<resource-root path="slf4j-api-2.0.7.jar"/>
+			<resource-root path="ehcache-3.9.6.jar"/>
+			<resource-root path="slf4j-nop-2.0.7.jar"/>
+    </resources>
+</module>
